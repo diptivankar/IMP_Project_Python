@@ -40,7 +40,7 @@
 **4. Platform:** 
    - Can be developed as a console-based application or enhanced with a GUI for better user engagement.
 
-**### Methodology Summary:**
+**### Methodology :**
 
 **1. Development Approach:**
    - I**terative Development:**

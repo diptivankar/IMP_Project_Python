@@ -26,6 +26,7 @@
 **5. Condition Checking:** Simple comparison algorithms check for a win or draw by comparing rows, columns, and diagonals for identical marks.
 
 **###Software requirements:**
+
 **1. Programming Language:** 
    - Options include Python, JavaScript, Java, or C++, selected based on UI and AI complexity.
 **2. Development Environment:** 

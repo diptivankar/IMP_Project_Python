@@ -15,9 +15,13 @@
 
 **### DSA Topics Used in Tic-Tac-Toe (Brief):**
 **1. Arrays/Lists:** A 2D array or 1D list with 9 elements represents the game board, efficiently tracking moves and checking game status.
+
 **2. Recursion/Backtracking:** For AI, recursion and backtracking explore possible moves (e.g., Minimax algorithm) to determine the optimal play.
+
 **3. Searching/Sorting:** Searching helps find empty cells or check for winning conditions (rows, columns, diagonals with matching symbols).
+
 **4. Game Tree:** AI uses a game tree to represent game states, with Minimax exploring the tree to select the best move by simulating future states.
+
 **5. Condition Checking:** Simple comparison algorithms check for a win or draw by comparing rows, columns, and diagonals for identical marks.
 
 **###Software requirements:**

@@ -29,11 +29,14 @@
 
 **1. Programming Language:** 
    - Options include Python, JavaScript, Java, or C++, selected based on UI and AI complexity.
+
 **2. Development Environment:** 
    - Compatible with text editors or IDEs like Visual Studio Code, PyCharm, Eclipse, or IntelliJ IDEA.
+
 **3. Libraries (Optional):**
    - For GUI: Pygame, JavaFX, or Tkinter.
    - For AI: Minimax algorithm, NumPy, or custom search algorithms.
+
 **4. Platform:** 
    - Can be developed as a console-based application or enhanced with a GUI for better user engagement.
 

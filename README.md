@@ -6,7 +6,7 @@
 - Tic-Tac-Toe is a two-player game where players take turns marking a 3x3 grid with "X" or "O". 
 - The goal is to get three of their marks in a row, column, or diagonal before their opponent. 
 - It's a simple yet strategic game often used as a beginner's programming project due to 
-- its ease of implementation and focus on basic algorithms and decision-making.
+- Its ease of implementation and focus on basic algorithms and decision-making.
 
 **###The problem domain:**
 - The problem domain of Tic-Tac-Toe involves simulating the game by managing a 3x3 grid, 
@@ -40,11 +40,19 @@
      - **Stage 2:** Implement player turns, move validation, and win condition checks.
      - **Stage 3:** Add advanced features like a GUI or AI opponent using the Minimax algorithm.
 
-**2. Test-Driven Development (TDD): **
+**2. Test-Driven Development (TDD):**
    - Write and execute tests for core functionalities (e.g., win conditions, turn-taking, move validation) before coding the corresponding features.
 
 **3. Object-Oriented Programming (OOP):** 
    - Use classes such as `GameBoard`, `Player`, and `AIPlayer` to organize and encapsulate game logic effectively.
+
+![dashboard tictactoe](https://github.com/user-attachments/assets/6ab22e4f-70ce-4a17-8ae6-8a2103ed6d0c)
+
+![It'a a tie ss tictactoe](https://github.com/user-attachments/assets/2eaf6b0e-587d-441f-834f-e594704301be)
+
+![player X win ss tictactoe](https://github.com/user-attachments/assets/9bf4dd38-eb48-445e-a324-56dc3f941c92)
+
+![player o win ss tictactoe](https://github.com/user-attachments/assets/811bf257-a2c2-4e6d-a38d-7d8b9dd0f88c)
 
 **### Conclusion / Summary:**
 - Tic-Tac-Toe is an excellent project for learning fundamental programming concepts, 

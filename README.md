@@ -14,6 +14,7 @@
 - Validating moves to prevent marking occupied cells, and creating an interface for player interaction.
 
 **### DSA Topics Used in Tic-Tac-Toe (Brief):**
+
 **1. Arrays/Lists:** A 2D array or 1D list with 9 elements represents the game board, efficiently tracking moves and checking game status.
 
 **2. Recursion/Backtracking:** For AI, recursion and backtracking explore possible moves (e.g., Minimax algorithm) to determine the optimal play.

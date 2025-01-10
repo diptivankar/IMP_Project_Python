@@ -13,7 +13,7 @@
 - Ensuring players take alternating turns with "X" and "O", checking for a winner or a draw, 
 - Validating moves to prevent marking occupied cells, and creating an interface for player interaction.
 
-**### DSA Topics Used in Tic-Tac-Toe (Brief):**
+**### DSA Topics Used in Tic-Tac-Toe :**
 
 **1. Arrays/Lists:** A 2D array or 1D list with 9 elements represents the game board, efficiently tracking moves and checking game status.
 

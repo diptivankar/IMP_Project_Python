@@ -5,7 +5,7 @@
 **###Introduction:**
 - Tic-Tac-Toe is a two-player game where players take turns marking a 3x3 grid with "X" or "O". 
 - The goal is to get three of their marks in a row, column, or diagonal before their opponent. 
-- It's a simple yet strategic game often used as a beginner's programming project due to 
+- It's a simple yet strategic game often used as a beginner's programming project, 
 - Its ease of implementation and focus on basic algorithms and decision-making.
 
 **###The problem domain:**
